@@ -10,3 +10,5 @@ RUN pip install git+https://github.com/bottlenome/mlem
 RUN pip install matplotlib jupyter tensorboard
 RUN pip install skorch
 RUN pip install opencv-python
+RUN pip install 'prompt-toolkit==1.0.15'
+
